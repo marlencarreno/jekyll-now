@@ -23,7 +23,7 @@ I have recently been nominated to be in the Honor Society.
 
 <hr />
 
-<h3><span style="color: #cc99ff;">What am I doing here?</span></h3>
+## What am I doing here? ##
 Funny story I got into the collegian academy without knowing, but I am glad I did because now I have an opportunity to save 2 years of college without spending any money.
 It was 2 weeks before school started and me and my mom had gone to the school to enroll me.
 We received a package and signed everything because we were in a hurry. I do remember the office lady explaining what the program was about.
