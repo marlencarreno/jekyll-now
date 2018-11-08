@@ -16,7 +16,6 @@ Although, when I do have time I love going out for a run or go to the gym. My pr
 In order to do so, I will need to focus and be able to work on my classes.
 I have recently been nominated to be in the Honor Society.
 
-****************
 
 ## What am I doing here? ##
 Funny story I got into the collegian academy without knowing, but I am glad I did because now I have an opportunity to save 2 years of college without spending any money.
