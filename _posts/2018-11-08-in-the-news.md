@@ -3,4 +3,4 @@ layout: post
 title : Breaking news in oak cliff 
 ---
 
-[Click me!](https://www.dallasnews.com/)
+[To know more about this click here](https://www.dallasnews.com/)
