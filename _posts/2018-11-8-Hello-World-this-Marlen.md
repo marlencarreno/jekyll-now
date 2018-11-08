@@ -39,7 +39,7 @@ As long as I am able to pull through and not fall apart I know I can make it.
 As soon as I graduate I will go to college . In doing so I will take what I learned and help it guide me through out my years of studying. Since, I was able to take college classes during high school.
 I will have more experience than the freshman now beginning  in their journey, but it still wont mean that I can't consider myself to be at the same level with them. Even so, I know I will be able to go through this with the help of my family and friends.
 
-<hr />
+
 
 ## When will this end? ##
 I can't really say when but one thing for sure is what I'm aiming for will take time. I am aiming to be an engineer. Not many females are known to work in this industry. And I want to be able to become a CEO myself. I know that my hard working will pay off someday. And for sure I will make my family proud of me. I want them to be able to tell their friends or anyone that I am successful and living it the best. Who knows? Maybe I'll be famous one day.
