@@ -3,8 +3,6 @@ layout: post
 title: Hello world (Again, they made me do this)
 ---
 
-Hello my name is Marlen and I am the master of this domain.
-
 # Who am I? #
 Hi everyone, my name is <strong>Marlen Carreno</strong>. I am known as "<em>Marlensita</em>" or "<em>Guerra</em>".
 I am 16 years old and a student in Franklin D Roosevelt collegian academy. I was born in Dallas TX and have never moved into another state nor country.
