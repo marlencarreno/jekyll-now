@@ -10,7 +10,7 @@ Hello my name is Marlen and I am the master of this domain.
 The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
 
 
-Who am I?</em></span></h3>
+#Who am I?#
 Hi everyone, my name is <strong>Marlen Carreno</strong>. I am known as "<em>Marlensita</em>" or "<em>Guerra</em>".
 I am 16 years old and a student in Franklin D Roosevelt collegian academy. I was born in Dallas TX and have never moved into another state nor country.
 I have 2 younger siblings and another one on the way. I come from a race full of Mexicans. Spanish was the first language I learned.
