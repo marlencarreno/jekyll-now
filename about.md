@@ -1,15 +1,27 @@
 ---
-layout: page
-title: About
-permalink: /about/
+layout: post
+title : About Me
 ---
+<h1>My Resume</h1>
 
-Some information about you!
+<h2>Marlen Carreno</h2>
 
-### More Information
+<p>e31336558@dcccd.edu</p>
 
-A place to include any other types of information that you'd like to include about yourself.
+<h2>Skills</h2>
 
-### Contact me
+<ul>
+<li>HTML 5 Coding</li>
+<li>CSS Design</li>
+<li> Photoshop Editing </li>
+<li> Print Layout </li>
+</ul>
 
-[email@domain.com](mailto:email@domain.com)
+<h2>Education</h2>
+
+<ul>
+<li> School of Hard Knocks</li>
+</ul>
+
+### Contact me ###
+<a href="https://html5-editor.net/">Email Us</a>  
