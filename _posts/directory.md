@@ -19,12 +19,10 @@ permalink: /itse-2402/
 * [Alexia Razo](https://alexia2402.github.io/)
 * [Alondra Soto](https://ookawaiitostoo.github.io/)
 * [Jihad Johnson](https://jihadj.github.io/)
-*[](https://marlencarreno.github.io/)
 * [Christopher Davis](https://3036154.github.io/)
 * [Francisco Salazar](https://francisco214.github.io/)
 * [Rodolfo Marquez](https://rodolfo02002.github.io/)
 * [Valentin Martinez](https://valentin430.github.io/)
-* [Olivia Rodriguez]()
 * [Sergio Ramos](https://azaidensuniverses.github.io/)
 * [Giselle Rivera](https://odaliss12.github.io/)
 
