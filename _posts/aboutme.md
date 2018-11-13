@@ -1,6 +1,6 @@
 ---
 layout: post
-title : Breaking news in oak cliff 
+title : About Me
 ---
 <h1>My Resume</h1>
 
