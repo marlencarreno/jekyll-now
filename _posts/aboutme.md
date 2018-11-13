@@ -24,5 +24,5 @@ title : Breaking news in oak cliff
 </ul>
 
 ### Contact me ###
-<a href="mailto:https://html5-editor.net/">Email Us</a>  
+<a href="https://html5-editor.net/">Email Us</a>  
 
