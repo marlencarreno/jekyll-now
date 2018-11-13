@@ -20,8 +20,9 @@ title : Breaking news in oak cliff
 <h2>Education</h2>
 
 <ul>
-<li> Scgool of Hard Knocks</li>
+<li> School of Hard Knocks</li>
 </ul>
 
 ### Contact me ###
+<a href="mailto:https://html5-editor.net/">Email Us</a>  
 
